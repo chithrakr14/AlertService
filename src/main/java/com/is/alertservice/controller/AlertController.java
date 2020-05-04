@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AlertController {
 	
-/*Aler Controller*/	
+/*Aler Controller -- Added by Chithra*/ 	
 	@GetMapping("/alert")
 	public List alert()
 	{
